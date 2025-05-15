@@ -173,7 +173,6 @@ public class Main {
     - It doesn't consume CPU resources (it's not actively running).
     - After the sleep duration is over, the thread becomes Runnable again (ready to be picked up by the CPU scheduler).
 
-![Screenshot 2025-05-15 at 2.20.22 PM.png](attachment:ae8dc650-115b-4d77-83a0-24beea87ca8d:Screenshot_2025-05-15_at_2.20.22_PM.png)
 
 ```java
 private static void demonstrateSampleSleep() {
